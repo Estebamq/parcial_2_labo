@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1593730240 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593730240 c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\linkedlist.h
+
+1593730996 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\controller.c
+	"parser.h"
+	"vuelos.h"
+	"pilotos.h"
+
+1593658862 c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593700552 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"vuelos.h"
+
+1593700552 c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\controller.h
+
+1593699497 c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\vuelos.h
+	"validation.h"
+
+1592098635 c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\validation.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593641847 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"vuelos.h"
+	"parser.h"
+	"pilotos.h"
+
+1593731409 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\pilotos.c
+	<string.h>
+	<stdlib.h>
+	"pilotos.h"
+
+1593697799 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\validation.c
+	"validation.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593730486 source:c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\vuelos.c
+	<stdlib.h>
+	"vuelos.h"
+	"pilotos.h"
+	<string.h>
+
+1593731035 c:\users\familia quiroz\desktop\practica de parcial\parcial2_practica\pilotos.h
+	"validation.h"
+	"LinkedList.h"
+	<string.h>
+
